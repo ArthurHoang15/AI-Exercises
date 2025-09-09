@@ -100,7 +100,7 @@ def input_state(prompt):
             print("Trạng thái không hợp lệ! Vui lòng nhập 9 ký tự từ 0-8, mỗi ký tự xuất hiện đúng 1 lần.")
 
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     print("=== BÀI TOÁN 8 Ô SỐ ===")
     print("Hướng dẫn: Nhập 9 số từ 0-8, trong đó 0 là ô trống")
     print("Ví dụ: 123046758 hoặc 1 2 3 0 4 6 7 5 8")
